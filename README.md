@@ -25,7 +25,7 @@ Before tech, I led teams and optimized operations in high-paced industries like 
 
 ## 🔗 Connect with Me:
 - 📧 smjoslin95@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/samantha-joslin95)
+- 💼 [LinkedIn] www.linkedin.com/in/samantha-joslin95
 - 🌐 [My Portfolio Website] (coming soon!)
 
 Thanks for stopping by! Let's connect 🤝
