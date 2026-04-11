@@ -17,11 +17,12 @@
 ## 💡 My Background:
 Before tech, I led teams and optimized operations in high-paced industries like hospitality, wellness, and retail. I bring strong communication, time management, and customer-first thinking to everything I do.
 
-## 🚀 Goals for 2025:
-- Land my first internship or junior developer role
-- Contribute to an open-source project
-- Launch my personal portfolio website
-- Build 5+ small, real-world projects
+## 🚀 Goals for 2026:
+* Land my first remote junior developer role
+* Earn my AWS Cloud Practitioner certification (CLF-C02) 🌩️
+* Contribute to an open-source project
+* Launch my personal portfolio website ✅ smjoslin95.github.io
+* Build 5+ small, real-world projects
 
 ## 🔗 Connect with Me:
 - 📧 smjoslin95@gmail.com
